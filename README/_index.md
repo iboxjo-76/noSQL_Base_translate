@@ -6,4 +6,4 @@ title: noSQL_Base_translate
 
 22-06-2025 - черновик перевода Главы 1 , требует правок
 
-
+![](./README.png){width=733px height=977px}

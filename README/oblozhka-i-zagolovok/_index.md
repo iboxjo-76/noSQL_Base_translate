@@ -3,9 +3,9 @@ order: 1
 title: ОБЛОЖКА И ЗАГОЛОВОК
 ---
 
-Перевод книги Основы NoSQL 2012 год, исходный язык - немецкий
+Перевод книги NoSQL - Введение. 2012 год, исходный язык - немецкий
 
-![](./_index.png){width=691px height=922px}
+![](./oblozhka-i-zagolovok.png){width=691px height=922px}
 
 
 
